@@ -1,9 +1,9 @@
 {
-    "name": "nfephp-org/sped-serializer",
+    "name": "carlosguttemberg/sped-serializer",
     "type": "library",
     "description": "Serialiser XML",
     "keywords": ["xml", "sped", "nfephp"],
-    "homepage": "https://github.com/nfephp-org/sped-serializer",
+    "homepage": "https://github.com/carlosguttemberg/sped-serializer",
     "license": ["GPL-3.0+","LGPL-3.0+","MIT"],
     "authors": [
         {
