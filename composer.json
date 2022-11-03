@@ -1,9 +1,9 @@
 {
-    "name": "carlosguttemberg/sped-serializer",
+    "name": "thiagorocha14/sped-serializer",
     "type": "library",
     "description": "Serialiser XML",
     "keywords": ["xml", "sped", "nfephp"],
-    "homepage": "https://github.com/carlosguttemberg/sped-serializer",
+    "homepage": "https://github.com/thiagorocha14/sped-serializer",
     "license": ["GPL-3.0+","LGPL-3.0+","MIT"],
     "authors": [
         {
@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php" : "~5.5|~7.0"
+        "php" : "~5.5|~7.0|^8"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
@@ -28,7 +28,7 @@
     "autoload": {
         "psr-4": {
           "NFePHP\\Serializer\\": "src/"
-        } 
+        }
     },
     "autoload-dev": {
         "psr-4": {
